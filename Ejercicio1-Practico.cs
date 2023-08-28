@@ -64,14 +64,14 @@ namespace CrearArbol
                     while (t1 != null)
                     {
                         t2 = t1;
-                        if (string.Compare(n,t.nombre) < 0)
+                        if (string.Compare(n,t2.nombre) < 0)
                             t1 = t2.izquierda;
                         else
                             t1 = t2.derecha;
                     }
 
                     Crearnodo(ref t, n,num);
-                    if (string.Compare(num, t.numero) < 0)
+                    if (string.Compare(n,t2.nombre) < 0)
                         t2.izquierda = t;
                     else
                         t2.derecha = t;
