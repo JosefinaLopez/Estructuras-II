@@ -1,0 +1,15 @@
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\obj\Debug\net7.0\Estructura de Datos II.csproj.AssemblyReference.cache
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\obj\Debug\net7.0\Estructura de Datos II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\obj\Debug\net7.0\Estructura de Datos II.AssemblyInfoInputs.cache
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\obj\Debug\net7.0\Estructura de Datos II.AssemblyInfo.cs
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\obj\Debug\net7.0\Estructura de Datos II.csproj.CoreCompileInputs.cache
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\bin\Debug\net7.0\Estructura de Datos II.exe
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\bin\Debug\net7.0\Estructura de Datos II.deps.json
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\bin\Debug\net7.0\Estructura de Datos II.runtimeconfig.json
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\bin\Debug\net7.0\Estructura de Datos II.dll
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\bin\Debug\net7.0\Estructura de Datos II.pdb
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\obj\Debug\net7.0\Estructura de Datos II.dll
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\obj\Debug\net7.0\refint\Estructura de Datos II.dll
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\obj\Debug\net7.0\Estructura de Datos II.pdb
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\obj\Debug\net7.0\Estructura de Datos II.genruntimeconfig.cache
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\obj\Debug\net7.0\ref\Estructura de Datos II.dll
