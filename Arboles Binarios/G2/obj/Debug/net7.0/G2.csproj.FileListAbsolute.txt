@@ -1,0 +1,15 @@
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\Arboles Binarios\G2\bin\Debug\net7.0\G2.exe
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\Arboles Binarios\G2\bin\Debug\net7.0\G2.deps.json
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\Arboles Binarios\G2\bin\Debug\net7.0\G2.runtimeconfig.json
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\Arboles Binarios\G2\bin\Debug\net7.0\G2.dll
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\Arboles Binarios\G2\bin\Debug\net7.0\G2.pdb
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\Arboles Binarios\G2\obj\Debug\net7.0\G2.csproj.AssemblyReference.cache
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\Arboles Binarios\G2\obj\Debug\net7.0\G2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\Arboles Binarios\G2\obj\Debug\net7.0\G2.AssemblyInfoInputs.cache
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\Arboles Binarios\G2\obj\Debug\net7.0\G2.AssemblyInfo.cs
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\Arboles Binarios\G2\obj\Debug\net7.0\G2.csproj.CoreCompileInputs.cache
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\Arboles Binarios\G2\obj\Debug\net7.0\G2.dll
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\Arboles Binarios\G2\obj\Debug\net7.0\refint\G2.dll
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\Arboles Binarios\G2\obj\Debug\net7.0\G2.pdb
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\Arboles Binarios\G2\obj\Debug\net7.0\G2.genruntimeconfig.cache
+C:\Users\Josef\OneDrive\Escritorio\Estructura de Datos II\Arboles Binarios\G2\obj\Debug\net7.0\ref\G2.dll
